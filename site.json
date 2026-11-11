@@ -1,0 +1,10 @@
+{
+  "$comment": "Facts of this product the legal templates (docs/legal/templates) and the site chrome need and the brand pack does not carry; scripts/site/build.ts capmoto reads it. draft: true keeps the draft banner on the legal pages (nothing publishes while a placeholder remains).",
+  "exam": "l'épreuve théorique moto (ETM) du permis de conduire",
+  "pass_name": "Pass Moto",
+  "school": "moto-école",
+  "exam_min_age": "16",
+  "real_use": "un usage de l'Application sur la route : l'Application est un outil d'apprentissage, pas une aide à la conduite",
+  "legal_updated": "7 novembre 2026",
+  "draft": false
+}
