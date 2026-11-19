@@ -1,0 +1,25 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "QCW7F4FQCZ.fr.sesamlabs.capmoto"
+        ],
+        "components": [
+          {
+            "/": "/lesson/*"
+          },
+          {
+            "/": "/exam"
+          },
+          {
+            "/": "/pass"
+          },
+          {
+            "/": "/support"
+          }
+        ]
+      }
+    ]
+  }
+}

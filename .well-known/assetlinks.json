@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "fr.sesamlabs.capmoto",
+      "sha256_cert_fingerprints": [
+        "CA:1C:98:9A:FA:F5:02:DC:30:68:E4:45:05:97:49:1C:52:81:D7:04:A8:4C:A6:39:4B:39:C4:2F:B8:7A:DB:42"
+      ]
+    }
+  }
+]
